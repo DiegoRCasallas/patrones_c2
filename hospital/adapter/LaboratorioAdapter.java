@@ -1,7 +1,7 @@
-package com.hospital.adapter;
+package hospital.adapter;
 
-import com.hospital.Data;
-import com.hospital.Hospital;
+import hospital.Data;
+import hospital.Hospital;
 
 public class LaboratorioAdapter extends Hospital {
     private SistemaLaboratorioExterno adaptee;

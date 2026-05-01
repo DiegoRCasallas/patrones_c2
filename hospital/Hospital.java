@@ -1,7 +1,7 @@
-package com.hospital;
+package hospital;
 
-import com.hospital.composite.ComponenteHospitalario;
-import com.hospital.decorator.Cita;
+import hospital.composite.ComponenteHospitalario;
+import hospital.decorator.Cita;
 import java.util.ArrayList;
 import java.util.List;
 

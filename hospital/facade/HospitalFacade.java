@@ -1,7 +1,7 @@
-package com.hospital.facade;
+package hospital.facade;
 
-import com.hospital.builder.BuilderHistoriaClinica;
-import com.hospital.builder.Director;
+import hospital.builder.BuilderHistoriaClinica;
+import hospital.builder.Director;
 
 public class HospitalFacade {
     private Director director;

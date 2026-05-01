@@ -1,4 +1,4 @@
-package com.hospital.builder;
+package hospital.builder;
 
 public class Director {
     private BuilderHistoriaClinica builder;

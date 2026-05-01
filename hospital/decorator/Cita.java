@@ -1,4 +1,4 @@
-package com.hospital.decorator;
+package hospital.decorator;
 
 public interface Cita {
     void cambiarFecha();

@@ -1,4 +1,4 @@
-package com.hospital.composite;
+package hospital.composite;
 
 public class Cardiologo implements Medico {
     private String field;

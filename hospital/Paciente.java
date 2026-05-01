@@ -1,4 +1,4 @@
-package com.hospital;
+package hospital;
 
 public class Paciente {
     private String field;

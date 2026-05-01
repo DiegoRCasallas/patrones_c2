@@ -1,4 +1,4 @@
-package com.hospital.decorator;
+package hospital.decorator;
 
 public abstract class CitaDecorator implements Cita {
     private Cita wrappee;

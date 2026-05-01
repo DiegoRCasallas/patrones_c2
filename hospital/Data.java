@@ -1,4 +1,4 @@
-package com.hospital;
+package hospital;
 
 public class Data {
     private String content;

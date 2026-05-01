@@ -1,4 +1,4 @@
-package com.hospital.adapter;
+package hospital.adapter;
 
 public class SistemaLaboratorioExterno {
     public JSON get_results_json() {

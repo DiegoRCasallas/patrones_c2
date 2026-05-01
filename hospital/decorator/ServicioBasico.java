@@ -1,4 +1,4 @@
-package com.hospital.decorator;
+package hospital.decorator;
 
 public class ServicioBasico implements Cita {
     private String field;

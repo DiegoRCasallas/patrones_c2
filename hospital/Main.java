@@ -1,17 +1,17 @@
-package com.hospital;
+package hospital;
 
-import com.hospital.builder.BuilderHCCita;
-import com.hospital.builder.Director;
-import com.hospital.facade.HospitalFacade;
-import com.hospital.composite.Departamento;
-import com.hospital.composite.Cardiologo;
-import com.hospital.composite.Neurologo;
-import com.hospital.adapter.SistemaLaboratorioExterno;
-import com.hospital.adapter.LaboratorioAdapter;
-import com.hospital.decorator.Cita;
-import com.hospital.decorator.ServicioBasico;
-import com.hospital.decorator.SeguroPremium;
-import com.hospital.decorator.ExamenEspecializado;
+import hospital.builder.BuilderHCCita;
+import hospital.builder.Director;
+import hospital.facade.HospitalFacade;
+import hospital.composite.Departamento;
+import hospital.composite.Cardiologo;
+import hospital.composite.Neurologo;
+import hospital.adapter.SistemaLaboratorioExterno;
+import hospital.adapter.LaboratorioAdapter;
+import hospital.decorator.Cita;
+import hospital.decorator.ServicioBasico;
+import hospital.decorator.SeguroPremium;
+import hospital.decorator.ExamenEspecializado;
 
 public class Main {
     public static void main(String[] args) {

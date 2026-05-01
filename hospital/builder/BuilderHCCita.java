@@ -1,7 +1,7 @@
-package com.hospital.builder;
+package hospital.builder;
 
-import com.hospital.HistoriaClinica;
-import com.hospital.Persona;
+import hospital.HistoriaClinica;
+import hospital.Persona;
 
 public class BuilderHCCita implements BuilderHistoriaClinica {
     private Persona paciente;

@@ -1,4 +1,4 @@
-package com.hospital.composite;
+package hospital.composite;
 
 public interface Medico extends ComponenteHospitalario {
     @Override

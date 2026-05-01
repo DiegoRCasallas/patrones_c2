@@ -1,4 +1,4 @@
-package com.hospital.adapter;
+package hospital.adapter;
 
 public class JSON {
     private String content;

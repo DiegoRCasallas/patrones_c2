@@ -1,6 +1,6 @@
-package com.hospital.builder;
+package hospital.builder;
 
-import com.hospital.HistoriaClinica;
+import hospital.HistoriaClinica;
 
 public interface BuilderHistoriaClinica {
     void reset();
